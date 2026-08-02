@@ -43,3 +43,28 @@ BEGIN
 
 END;
 GO
+================================================================================
+test data
+======================================================================================
+INSERT INTO Transactions
+(
+    AccountID,
+    TransactionType,
+    Amount,
+    TransactionDate
+)
+VALUES
+(
+    10001,
+    'Deposit',
+    500,
+    GETDATE()
+);
+
+
+SELECT 
+AccountID,
+Balance
+FROM Accounts
+WHERE AccountID = 10001;
+
