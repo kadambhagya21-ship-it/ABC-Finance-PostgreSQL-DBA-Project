@@ -24,10 +24,10 @@ Prerequisites:
 
 
  Triggers/
-    ├── 01_Create_Audit_Table.sql
-    ├── 02_trg_AuditTransaction.sql
-    ├── 03_trg_UpdateAccountBalance.sql
-    ├── 04_trg_PreventNegativeBalance.sql
+     01_Create_Audit_Table.sql
+     02_trg_AuditTransaction.sql
+     03_trg_UpdateAccountBalance.sql
+     04_trg_PreventNegativeBalance.sql
     
 ==========================================================
 
