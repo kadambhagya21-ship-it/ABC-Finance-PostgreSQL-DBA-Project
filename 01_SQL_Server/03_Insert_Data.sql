@@ -1,3 +1,13 @@
+03_Insert_tables.sql
+
+/*
+==========================================
+Project : ABC Finance Banking Database
+Module 1 : Create Database
+Author  : Bhagyashree Kadam
+Database: SQL Server 2022
+==========================================
+*/
 
 ## Data Import
 
