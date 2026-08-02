@@ -175,4 +175,4 @@ GROUP BY AccountType;
 GO
 SELECT * FROM vw_AccountBalanceSummary;
 **************************************************  
-This script is part of **Module 2 – Views, Stored Procedures, Triggers & Indexes** of the ABCFinanceDB SQL Server project.
+
